@@ -1,0 +1,35 @@
+
+.card{
+    max-width: 260px ;
+}
+
+.search input{
+    height: 20px ;
+    width: 200px;     
+}
+
+.search button{
+   height: 28px;
+    width: 28px;
+    margin: 7px;
+}
+
+.search button img{
+    width: 12px;
+    height: 12px;
+}
+
+.weather h1{
+    font-size: 65px;
+}
+
+.weather h2{
+    font-size: 35px;
+}
+
+.col{
+    font-size: 13px;
+}
+#col1{
+    margin-right: 70px;
+}
